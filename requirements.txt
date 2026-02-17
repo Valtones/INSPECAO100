@@ -1,7 +1,4 @@
-pandas
-openpyxl
-plotly
-streamlit
-re
-datetime
-io
+pandas==2.1.4
+openpyxl==3.1.2
+plotly==5.18.0
+streamlit==1.30.0
